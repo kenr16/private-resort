@@ -2,35 +2,21 @@
 body {
   background-image: url("pirate.jpg");
   color: darkred;
-  /*margin-top: 10px;
-  margin-left: 47%*/
-
 }
 
 .nav {
-margin-left: 40%;
+  margin-left: 40%;
 }
 
-.inner {
-  width: 50%;
-  margin-left: 30%;
-}
-
-.travel-body {
-  background-image: url("planes.jpg");
-  color: white;
-  text-align: center;
-}
-
-ul{
+ul {
   list-style-type: none;
   margin-left: 10%;
 }
 
 a {
   text-decoration: none;
-
 }
+
 h1 {
   color: darkred;
   margin-top: 400px;
@@ -46,11 +32,13 @@ h2 {
   background-color: gray;
   width: 500px;
 }
-p{
+
+p {
   width: 500px;
   background-color: white;
   text-align: center;
 }
+
 table {
   background-color: lightgray;
   width: 500px;
@@ -63,13 +51,13 @@ ul li a {
   font-size: 30px;
 
 }
+
 td {
   padding-left: 70px;
   font-size: 40px;
   color: darkred;
-
 }
 
-img{
+img {
   width: 500px;
 }
