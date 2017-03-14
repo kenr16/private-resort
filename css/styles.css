@@ -1,0 +1,44 @@
+
+body {
+  background-image: url("tropical.jpg");
+  color: white;
+  /*margin-top: 10px;
+  margin-left: 47%*/
+
+}
+
+.nav {
+margin-left: 40%;
+}
+
+.inner {
+  width: 50%;
+  margin-left: 30%;
+}
+
+.travel-body {
+  background-image: url("planes.jpg");
+  color: white;
+  text-align: center;
+}
+
+.travel-body ul{
+  list-style-type: none;
+}
+
+h1 {
+  margin-top: 400px;
+}
+
+table {
+width: 70%
+}
+
+td {
+
+
+}
+
+img{
+  width: 500px;
+}
